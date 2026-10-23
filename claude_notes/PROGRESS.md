@@ -11,10 +11,10 @@
 
 | File | What it is |
 |---|---|
-| [REQUIREMENTS.md](./REQUIREMENTS.md) | Problem, personas, impact method, goals, cut line, FR/NFR, data, architecture, 7-day plan, video storyboard, risks, open questions |
+| [../docs/REQUIREMENTS.md](../docs/REQUIREMENTS.md) | Problem, personas, impact method, goals, cut line, FR/NFR, data, architecture, 7-day plan, video storyboard, risks, open questions |
 | [CONTEXT.md](./CONTEXT.md) | Glossary: the words to use in tables, columns and UI (e.g. *SLA Breach*, never "late shipment") |
 | [../docs/adr/](../docs/adr/) | 0001 real disruptions + synthetic forwarder · 0002 triggered pipeline in demo sessions · 0003 reads as the user, Lakebase for positions + writes · 0004 RLS by Customer Portfolio + ABAC on margin · 0005 engine computes, model explains |
-| [../docs/competition-brief.pdf](../docs/competition-brief.pdf) | The competition brief and FAQ |
+| [../docs/competition-brief.pdf](../docs/competition-brief.pdf) | The competition brief and FAQ (local only, not in git) |
 | Reference project | `../../hsl_live_transit/` (Helsinki). Code to borrow: `src/app/{db,warehouse,genie,agent,store,init_db}.py`, `tests/test_app_smoke.py`, `resources/{app,lakebase,warehouse,genie,demo}.yml`, `src/jobs/demo.py`, `scripts/grant_app_access.py` |
 
 ### Databricks workspace (fill in on Day 1)

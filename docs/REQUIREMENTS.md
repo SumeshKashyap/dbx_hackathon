@@ -2,10 +2,10 @@
 
 A Databricks App for a freight forwarder (ocean + air). When a Disruption hits, it finds the affected Shipments within seconds, prices the Disruption Impact, and lets an agent propose Reroutes for a Program Manager to approve. The same data model answers the commercial questions: which Lanes, Container Types, Customers, Segments and Divisions make or lose money, and which Lanes to grow.
 
-- Competition: Databricks × Accenture App Competition ([docs/competition-brief.pdf](../docs/competition-brief.pdf)). **Deadline: Fri 30 Oct 2026, 23:59 CET (= Sat 31 Oct 04:29 IST). Plan to submit on 30 Oct by 20:00 IST.**
-- Vocabulary: [CONTEXT.md](./CONTEXT.md). Terms in **bold** are defined there.
-- Decisions: [docs/adr/](../docs/adr/).
-- Status and next step: [PROGRESS.md](./PROGRESS.md).
+- Competition: Databricks × Accenture App Competition ([competition-brief.pdf](./competition-brief.pdf), kept local, not in git). **Deadline: Fri 30 Oct 2026, 23:59 CET (= Sat 31 Oct 04:29 IST). Plan to submit on 30 Oct by 20:00 IST.**
+- Vocabulary: [CONTEXT.md](../claude_notes/CONTEXT.md). Terms in **bold** are defined there.
+- Decisions: [docs/adr/](./adr/).
+- Status and next step: [PROGRESS.md](../claude_notes/PROGRESS.md).
 - Working name "Freight Control Tower"; rename freely before the video.
 
 ---
